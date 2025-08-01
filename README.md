@@ -95,9 +95,5 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWhvaWx1dzFndHRkZzJvYW5vY3E0eHJ5YmV2eGN1cnV6cDhrdGRrNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRl8n3zv1N14ZYY/giphy.gif" width="150px" />
-</p>
-
 > *“Building intelligent systems with code, research, and curiosity.”*  
 > — **Muhammad Zaqeem**
