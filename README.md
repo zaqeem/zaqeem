@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="<img src="https://github.com/zaqeem/zaqeem/blob/main/photo.gif?raw=true" width="170"/>
-"/>
+
 </p>
 
 ---
