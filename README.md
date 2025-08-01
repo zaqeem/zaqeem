@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <img src="<img src="https://github.com/zaqeem/zaqeem/blob/main/photo.gif?raw=true" width="170"/>
-
+  <img src="https://github.com/zaqeem/zaqeem/assets/photo.gif" width="200px" style="border-radius: 50%;" />
 </p>
+
 
 ---
 
@@ -91,13 +91,12 @@
 <p align="center">
   <a href="mailto:muhammadzaqeem@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/zaqeem"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l3vRl8n3zv1N14ZYY/giphy.gif" width="120px" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWhvaWx1dzFndHRkZzJvYW5vY3E0eHJ5YmV2eGN1cnV6cDhrdGRrNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRl8n3zv1N14ZYY/giphy.gif" width="150px" />
 </p>
 
 > *“Building intelligent systems with code, research, and curiosity.”*  
