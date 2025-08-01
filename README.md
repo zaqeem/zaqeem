@@ -14,7 +14,7 @@
 ## 🚀 About Me
 
 🎓 **Education**:  
-- **BSCS** (2021–2025) – Brains Institute, Peshawar
+- **BSCS** (2022–2026) – Brains Institute, Peshawar
 
 🔬 **Research**:  
 - Research Assistant at **DIP Lab**, Islamia College University
