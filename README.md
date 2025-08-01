@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/zaqeem/zaqeem/assets/photo.gif" width="200px" style="border-radius: 50%;" />
+  <img src="https://github.com/zaqeem/zaqeem/blob/main/photo.gif?raw=true" width="200px" style="border-radius: 50%;" />
 </p>
 
 
