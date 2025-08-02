@@ -1,21 +1,29 @@
+<!-- Header GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+</p>
+
+<!-- Name and Title -->
 <h1 align="center">Hi 👋, I'm Muhammad Zaqeem</h1>
 <h3 align="center">AI Researcher | VLMs & LLMs | Deep Learning Enthusiast</h3>
 
+<!-- Typing SVG -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2FF7FC&center=true&vCenter=true&width=550&lines=AI+Researcher+%7C+LLMs+%26+VLMs;Passionate+about+Multi-Modal+AI;Deep+Learning+%7C+Vision+Language+Models" alt="Typing SVG" />
 </div>
 
+<!-- Profile Image -->
 <p align="center">
   <img
     src="https://github.com/zaqeem.png"
     width="180px"
     height="180px"
-    style="border-radius: 50%; 
-           border: 3px solid #2FF7FC; 
-           box-shadow: 0 0 20px rgba(47, 247, 252, 0.6); 
+    style="border-radius: 50%;
+           border: 3px solid #2FF7FC;
+           box-shadow: 0 0 20px rgba(47, 247, 252, 0.6);
            object-fit: cover;" 
     alt="Profile Image"
-/>
+  />
 </p>
 
 ---
@@ -79,19 +87,33 @@
 
 ---
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zaqeem&show_icons=true&theme=tokyonight&border_color=2FF7FC" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaqeem&theme=tokyonight&border=2FF7FC"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaqeem&layout=compact&theme=tokyonight&border_color=2FF7FC"/>
+</p>
+
+---
+
 ## 🔗 Let’s Connect
 
-<div align="center">
+<p align="center">
   <a href="mailto:muhammadzaqeem@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/zaqeem">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</div>
+</p>
 
 ---
 
+<!-- Footer Quote with GIF -->
 <div align="center">
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="280px"/>
   <p><i>"Building intelligent systems with code, research, and curiosity."</i></p>
