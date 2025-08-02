@@ -2,11 +2,20 @@
 <h3 align="center">AI Researcher | VLMs & LLMs | Deep Learning Enthusiast</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2FF7FC&center=true&vCenter=true&width=550&lines=AI+Researcher+%7C+LLMs+%26+VLMs+Expert;Passionate+about+Multi-Modal+AI;Deep+Learning+%7C+Vision+Language+Models" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2FF7FC&center=true&vCenter=true&width=550&lines=AI+Researcher+%7C+LLMs+%26+VLMs;Passionate+about+Multi-Modal+AI;Deep+Learning+%7C+Vision+Language+Models" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://github.com/zaqeem.png" width="180px" height="180px" style="border-radius: 50%; border: 3px solid #2FF7FC; box-shadow: 0 0 20px rgba(47, 247, 252, 0.6);" />
+  <img
+    src="https://github.com/zaqeem.png"
+    width="180px"
+    height="180px"
+    style="border-radius: 50%; 
+           border: 3px solid #2FF7FC; 
+           box-shadow: 0 0 20px rgba(47, 247, 252, 0.6); 
+           object-fit: cover;" 
+    alt="Profile Image"
+/>
 </p>
 
 ---
