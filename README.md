@@ -1,29 +1,16 @@
-<h1 align="center" style="margin-bottom: 5px;"> 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=2FF7FC&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Muhammad+Zaqeem" alt="Typing SVG" />
-  </a>
-</h1>
+
+<!-- Name and Title -->
+<h1 align="center">Hi 👋, I'm Muhammad Zaqeem</h1>
+<h3 align="center">AI Researcher | VLMs & LLMs | Deep Learning Enthusiast</h3>
 
 <!-- Typing SVG -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2FF7FC&center=true&vCenter=true&width=550&lines=AI+Researcher+%7C+LLMs+%26+VLMs;Passionate+about+Multi-Modal+AI;Deep+Learning+%7C+Vision+Language+Models" alt="Typing SVG" />
 </div>
 
-<!-- Profile Image -->
 <p align="center">
-  <img
-    src="https://github.com/zaqeem.png"
-    width="180px"
-    height="180px"
-    style="border-radius: 50%;
-           border: 3px solid #2FF7FC;
-           box-shadow: 0 0 20px rgba(47, 247, 252, 0.6);
-           object-fit: cover;" 
-    alt="Profile Image"
-  />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%" />
 </p>
-
----
 
 ## 🚀 About Me
 
