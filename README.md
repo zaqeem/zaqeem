@@ -9,7 +9,7 @@
 <!-- Typing SVG Animation -->
 <div align="center">
   <a href="https://github.com/zaqeem">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=AI+Researcher+|+Deep+Learning+|+Computer+Vision;Research+Assistant+@+DIP+Lab;Exploring+Multimodal+Anomaly+Detection;Learning+VLMs%2C+RAG%2C+and+Agentic+AI" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=|+Deep+Learning+|+Computer+Vision;;Exploring+Multimodal+Anomaly+Detection;Learning+VLMs%2C+RAG%2C+and+Agentic+AI" alt="Typing Animation" />
   </a>
 </div>
 
