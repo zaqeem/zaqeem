@@ -12,26 +12,40 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%" />
 </p>
 
-## 🚀 About Me
+🚀 About Me
 
-🎓 **Education**:  
-- **BSCS** (2022–2026) – Brains Institute, Peshawar
+👋 I'm Muhammad Zaqeem, a Research Assistant at the Digital Image Processing (DIP) Lab, Islamia College Peshawar.
+I’m currently pursuing my BS in Computer Science (2022–2026) at Brains Institute, Peshawar.
 
-🔬 **Research**:  
-- Research Assistant at **DIP Lab**, Islamia College University
+My research focuses on multimodal anomaly detection in surveillance systems, where I investigate how combining visual and contextual information can improve anomaly recognition and enhance real-time scene understanding.
 
-🧠 **Currently Working On**:  
-- Vision-Language Models (VLMs)  
-- Large Language Models (LLMs)  
-- Deep Learning & Multimodal AI  
+I’m also learning about Vision-Language Models (VLMs), Retrieval-Augmented Generation (RAG), and Agentic AI, aiming to apply these paradigms in future multimodal systems.
 
-🧪 **Research Focus**:  
-- 🤖 LLMs: Transformers, fine-tuning techniques  
-- 👁️ VLMs: CLIP, Flamingo, multimodal fusion  
-- 🧠 Deep Learning: CNNs, attention  
-- 🧬 Generative AI: GANs, Diffusion models  
-- 📷 Computer Vision: Detection, segmentation  
+🎓 Education
 
+BSCS (2022–2026) – Brains Institute, Peshawar
+
+ Research
+
+Research Assistant – Digital Image Processing (DIP) Lab, Islamia College University
+
+🧠 Currently Learning
+
+Vision-Language Models (VLMs)
+
+Retrieval-Augmented Generation (RAG)
+
+Agentic AI Systems
+
+🧪 Research Focus
+
+🎥 Multimodal Anomaly Detection in Surveillance Systems
+
+👁️ Computer Vision: Object Detection, Scene Understanding, Temporal Modeling
+
+🧠 Deep Learning: CNNs, Transformers, Attention Mechanisms
+
+📊 Multimodal Fusion for Cross-Modal Representation Learning
 ---
 
 ## 🛠️ Tech Stack & Tools
