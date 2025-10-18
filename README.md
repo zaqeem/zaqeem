@@ -6,9 +6,13 @@
 <h3 align="center">AI Researcher | Computer Vision | Deep Learning Enthusiast</h3>
 
 <!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=550&lines=AI+Researcher+%7C+Deep+Learning+%7C+Computer+Vision;Research+Assistant+@+DIP+Lab;Exploring+Multimodal+Anomaly+Detection+in+Surveillance;Always+Learning+VLMs%2C+RAG%2C+and+Agentic+AI" alt="Typing SVG" />
-</p>
+<!-- Typing SVG Animation -->
+<div align="center">
+  <a href="https://github.com/zaqeem">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=AI+Researcher+|+Deep+Learning+|+Computer+Vision;Research+Assistant+@+DIP+Lab;Exploring+Multimodal+Anomaly+Detection;Learning+VLMs%2C+RAG%2C+and+Agentic+AI" alt="Typing Animation" />
+  </a>
+</div>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="55%" />
@@ -29,9 +33,6 @@ I’m also learning about **Vision-Language Models (VLMs)**, **Retrieval-Augment
 
 ### 🎓 Education  
 - **BSCS (2022–2026)** – Brains Institute, Peshawar  
-
-### 🔬 Research  
-- **Research Assistant** – Digital Image Processing (DIP) Lab, Islamia College University  
 
 ### 🧠 Currently Learning  
 - Vision-Language Models (VLMs)  
